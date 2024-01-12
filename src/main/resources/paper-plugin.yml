@@ -1,0 +1,6 @@
+name: LifeSteal
+version: '${version}'
+main: kro.dodoworld.lifesteal.LifeSteal
+api-version: '1.20'
+authors: [_dodoman]
+description: Killing a player = 1 heart
